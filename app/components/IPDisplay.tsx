@@ -6,21 +6,18 @@ export default function IPDisplay() {
   const [ip, setIp] = useState('加载中...');
 
   useEffect(() => {
-    const script = document.createElement('script');
-    script.src = 'https://pv.sohu.com/cityjson?ie=utf-8';
-    script.async = true;
-    script.onload = () => {
-      // @ts-ignore
-      if (window.returnCitySN) {
-        // @ts-ignore
-        setIp(window.returnCitySN.cip);
+    const fetchIP = async () => {
+      try {
+        const response = await fetch('/api/ip');
+        const data = await response.json();
+        setIp(data.ip);
+      } catch (error) {
+        console.error('获取IP地址失败:', error);
+        setIp('获取失败');
       }
     };
-    document.body.appendChild(script);
 
-    return () => {
-      document.body.removeChild(script);
-    };
+    fetchIP();
   }, []);
 
   return <span>{ip}</span>;
