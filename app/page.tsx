@@ -55,7 +55,7 @@ export default function Home() {
         minHeight: '100vh',
         position: 'relative'
       }}>
-        <a href="https://onedrive.live.com/?cid=DA6AE51A986991AE&id=DA6AE51A986991AE%21sd8b24d18f4044fd79034899fe96fe938&parId=root&o=OneUp" target="_blank" style={{ 
+        <a href="https://www.123pan.com/s/wLdKjv-fJfNv" target="_blank" style={{ 
           ...buttonStyle,
           top: '2em',
           left: '2em'
