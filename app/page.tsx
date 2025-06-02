@@ -41,7 +41,7 @@ export default function Home() {
               <li><a target="_blank" href="https://pd.qq.com/s/4el0z5f1o?businessType=9">最新公告</a></li>
               <li><a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=FqYQuquL95zqd_7R5xM2tUtlqrkqy7VA&jump_from=webapi&authKey=KRYcBx8ds+7uzCYP/C+M/0dYVV4J8H/S0bW+P9REnS5jsJPEJD/SLGFXg7XqC6Dr"><img src="//pub.idqqimg.com/wpa/images/group.png" alt="加入我们" title="加入我们" style={{ transform: 'translateY(5px)' }} /></a></li>
               <li><a target="_blank" href="https://b23.tv/0fFeX0C">服主的b站</a></li>
-              <li><a target="_blank" href="minecraft://?addExternalServer=mcpebot|mcpebot.com:20016">自动加入基岩服务器列表</a></li>
+              <li><a target="_blank" href="minecraft://?addExternalServer=mcpebot|mcpebot.com:20016">加入基岩服务器列表</a></li>
             </ul>
           </nav>
         </header>
