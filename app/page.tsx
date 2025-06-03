@@ -55,7 +55,7 @@ export default function Home() {
         minHeight: '100vh',
         position: 'relative'
       }}>
-        <a href="https://www.123pan.com/s/wLdKjv-fJfNv" target="_blank" style={{ 
+        <a href="https://www.123pan.com/s/wLdKjv-fJfNv" style={{ 
           ...buttonStyle,
           top: '2em',
           left: '2em'
@@ -77,10 +77,10 @@ export default function Home() {
           </div>
           <nav>
             <ul>
-              <li><a target="_blank" href="https://status.mcpebot.com/">服务器状态</a></li>
-              <li><a target="_blank" href="https://pd.qq.com/s/4el0z5f1o?businessType=9">最新公告</a></li>
-              <li><a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=FqYQuquL95zqd_7R5xM2tUtlqrkqy7VA&jump_from=webapi&authKey=KRYcBx8ds+7uzCYP/C+M/0dYVV4J8H/S0bW+P9REnS5jsJPEJD/SLGFXg7XqC6Dr"><img src="//pub.idqqimg.com/wpa/images/group.png" alt="加入我们" title="加入我们" style={{ transform: 'translateY(5px)' }} /></a></li>
-              <li><a target="_blank" href="https://b23.tv/0fFeX0C">服主的b站</a></li>
+              <li><a href="https://status.mcpebot.com/">服务器状态</a></li>
+              <li><a href="https://pd.qq.com/s/4el0z5f1o?businessType=9">最新公告</a></li>
+              <li><a href="https://qm.qq.com/cgi-bin/qm/qr?k=FqYQuquL95zqd_7R5xM2tUtlqrkqy7VA&jump_from=webapi&authKey=KRYcBx8ds+7uzCYP/C+M/0dYVV4J8H/S0bW+P9REnS5jsJPEJD/SLGFXg7XqC6Dr"><img src="//pub.idqqimg.com/wpa/images/group.png" alt="加入我们" title="加入我们" style={{ transform: 'translateY(5px)' }} /></a></li>
+              <li><a href="https://b23.tv/0fFeX0C">服主的b站</a></li>
             </ul>
           </nav>
         </header>
