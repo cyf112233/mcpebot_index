@@ -79,7 +79,7 @@ export default function Home() {
             <ul>
               <li><a href="https://status.mcpebot.com/">服务器状态</a></li>
               <li><a href="https://pd.qq.com/s/4el0z5f1o?businessType=9">最新公告</a></li>
-              <li><a href="https://qm.qq.com/cgi-bin/qm/qr?k=FqYQuquL95zqd_7R5xM2tUtlqrkqy7VA&jump_from=webapi&authKey=KRYcBx8ds+7uzCYP/C+M/0dYVV4J8H/S0bW+P9REnS5jsJPEJD/SLGFXg7XqC6Dr">加入QQ群</li>
+              <li><a href="https://qm.qq.com/cgi-bin/qm/qr?k=FqYQuquL95zqd_7R5xM2tUtlqrkqy7VA&jump_from=webapi&authKey=KRYcBx8ds+7uzCYP/C+M/0dYVV4J8H/S0bW+P9REnS5jsJPEJD/SLGFXg7XqC6Dr">加入QQ群</a>></></li>
               <li><a href="https://b23.tv/0fFeX0C">服主的b站</a></li>
             </ul>
           </nav>
