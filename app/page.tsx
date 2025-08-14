@@ -60,7 +60,7 @@ export default function Home() {
           top: '2em',
           left: '2em'
         }}>下载专用客户端</a>
-        <a href="minecraft://?addExternalServer=mcpebot|mcpebot.com:20016" style={{ 
+        <a href="minecraft://?addExternalServer=mcpebot|mcpebot.com:25565" style={{ 
           ...buttonStyle,
           top: '2em',
           right: '2em'
